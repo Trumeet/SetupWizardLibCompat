@@ -31,6 +31,7 @@ public class SetupWizardLayoutActivity extends AppCompatActivity {
                         GlifLayoutActivity.class));
             }
         });
+        layout.setProgressBarShown(true);
         setContentView(layout);
     }
 }

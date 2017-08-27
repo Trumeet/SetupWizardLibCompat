@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SetupWizardLibCompat.iml" filepath="$PROJECT_DIR$/SetupWizardLibCompat.iml" />
-      <module fileurl="file://C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\SetupWizardLibCompat.iml" filepath="C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\SetupWizardLibCompat.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\app\app.iml" filepath="C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/setupwizardlib/setupwizardlib.iml" filepath="$PROJECT_DIR$/setupwizardlib/setupwizardlib.iml" />
-      <module fileurl="file://C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\setupwizardlib\setupwizardlib.iml" filepath="C:\Users\Trumeet\Files\Android\SetupWizardLibCompat\setupwizardlib\setupwizardlib.iml" />
     </modules>
   </component>
 </project>
